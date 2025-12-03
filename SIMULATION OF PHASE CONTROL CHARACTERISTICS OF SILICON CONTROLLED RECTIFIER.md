@@ -27,10 +27,12 @@ LT-Spice
 
 ## CIRCUIT DIAGRAM:
 
+![WhatsApp Image 2025-12-03 at 15 34 01_dc8a5599](https://github.com/user-attachments/assets/ee7d40ce-86a9-4094-bffd-7a37a390c73a)
 
 
 ## OUTPUT GRAPH:
 
+![WhatsApp Image 2025-12-03 at 15 34 45_60b1f7ca](https://github.com/user-attachments/assets/0f892f3e-7bfd-438e-93d1-72632029bdeb)
 
 ## RESULT:
 Thus the phase control characteristics of SCR using LT-spice is simulated and verified. 
