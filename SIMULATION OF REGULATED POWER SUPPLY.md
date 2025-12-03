@@ -36,15 +36,21 @@ LT-Spice
 
 
 ## CIRCUIT DIAGRAM:
+![WhatsApp Image 2025-12-03 at 15 38 48_97b5865d](https://github.com/user-attachments/assets/6778b576-41ba-467d-90cf-5cde6b332526)
 
 
 ## AC INPUT WAVEFORM:
+![WhatsApp Image 2025-12-03 at 15 40 04_5e094ed6](https://github.com/user-attachments/assets/a1135a41-575c-47e5-a950-bcbdc951014d)
 
 
 ## OUTPUT GRAPH:
+![WhatsApp Image 2025-12-03 at 15 40 49_8402fb23](https://github.com/user-attachments/assets/0b8e0a87-c0ab-45cc-a7fd-2e8460e64330)
+
 ## SIGNAL OUTPUT(WITHOUT FILTER)
+![WhatsApp Image 2025-12-03 at 15 41 25_e6d801f6](https://github.com/user-attachments/assets/af8aedee-97b5-4eee-9e82-612dec75192b)
 
 ## SIGNAL OUTPUT(WITH FILTER)
+![WhatsApp Image 2025-12-03 at 15 41 54_f834634e](https://github.com/user-attachments/assets/23f902a5-bd7b-42b7-8892-a2347671ba49)
 
 
 
