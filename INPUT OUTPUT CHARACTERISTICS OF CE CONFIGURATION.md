@@ -14,11 +14,14 @@
 ## THEORY
 A NPN function transistor consist of a silicon (or germanium) crystal in which a layer of p – type silicon is sandwiched between two layers of N – type silicon.  The arrow on emitter lead specifies the direction of the current flow when the emitter – base Junction is biased in the forward direction since the conductivity of the BJT depends on both the majority and minority carriers it is called bipolar device.  In CE configuration base is the i/p terminal, collector is the o/p terminal and emitter is common to both input and output.  The ratio of change in I<sub>c</sub> to change in base current Ib is known as Current amplification factor or current gain..
 ## CIRCUIT DIAGRAM: 
-## FORWARD BIAS:
+![WhatsApp Image 2025-12-03 at 13 48 24_6bd06c77](https://github.com/user-attachments/assets/e8af3e88-2ecf-4b28-9558-1f43de84eb4c)
 
-## REVERSE BIAS:
+
+
 
 ## MODEL GRAPH:
+![WhatsApp Image 2025-12-03 at 13 49 38_cead8ab0](https://github.com/user-attachments/assets/6b81e38d-7374-4787-99db-8a3cfff810f5)
+
 
 ## PROCEDURE:  
 ## INPUT CHARACTERISTICS
@@ -54,24 +57,34 @@ A NPN function transistor consist of a silicon (or germanium) crystal in which a
 
 ## TABULATION:
 
+
 ## INPUT CHARATERISTICS:
+![WhatsApp Image 2025-12-03 at 13 51 36_c1ca74aa](https://github.com/user-attachments/assets/7a19827b-6df6-40f1-acf3-8f1e964c7cbb)
+
 
 ## OUTPUT CHARATERISTICS:
+![WhatsApp Image 2025-12-03 at 13 52 26_f26b07a0](https://github.com/user-attachments/assets/9564120c-c754-4168-b999-62a05d3bdc2a)
+
 
 ## CALCULATIONS:
+![WhatsApp Image 2025-12-03 at 13 53 27_6618d65e](https://github.com/user-attachments/assets/6a78acf0-a2e2-4159-b711-b015a732b5bb)
+
 
 ## GRAPH:
+![WhatsApp Image 2025-12-03 at 13 54 26_c1f4dbea](https://github.com/user-attachments/assets/1901734b-fb6b-4e21-8f30-0bec90ca5358)
+![WhatsApp Image 2025-12-03 at 13 53 57_8170b9b3](https://github.com/user-attachments/assets/0feaf8cb-2553-47d4-ac36-fcced6968d01)
+
 
  ## RESULT:
  The input and output characteristics of transistor in CE mode is drawn and, the h parameters are calculated.
  **Input Impedance**  
-**h<sub>ie</sub> =** _________  (Ω)
+**h<sub>ie</sub> =** 268  (Ω)
 
 **Output Admittance**  
-**h<sub>oe</sub> =** _________  (mho)
+**h<sub>oe</sub> =** 0.0001  
 
 **Forward Current Gain**  
-**h<sub>fe</sub> =** _________
+**h<sub>fe</sub> =** 0.537
 
 **Reverse Voltage Gain**  
-**h<sub>re</sub> =** _________
+**h<sub>re</sub> =** 0.05
